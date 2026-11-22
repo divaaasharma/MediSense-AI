@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/assets/MediSense%20AI%20README%20Guide.png" width="100%" alt="MediSense AI Project Banner">
+</p>
 \# 🩺 MediSense AI
 
 \### Explainable Healthcare Risk Prediction System
