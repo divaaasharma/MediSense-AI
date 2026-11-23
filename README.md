@@ -57,8 +57,13 @@ The system combines predictive modelling, model evaluation, and explainability t
 
 **Dataset:** Diabetes Health Indicators Dataset
 
-**Original Source:** CDC Behavioral Risk Factor Surveillance System (BRFSS) 2015.
+**Original Source:** CDC Behavioral Risk Factor Surveillance System (BRFSS), 2015.
 
+**Official Dataset Source:** [CDC BRFSS 2015 Survey Data](https://www.cdc.gov/brfss/annual_data/annual_2015.html)
+
+**Dataset Format Used:** CSV (processed dataset).
+
+**Dataset Size:** 253,680 original records and 21 input features.
 | Attribute | Details |
 |---|---|
 | Original Records | 253,680 |
