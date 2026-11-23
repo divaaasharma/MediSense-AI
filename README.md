@@ -127,7 +127,15 @@ Two classification algorithms were trained and evaluated on the same test datase
 | Recall | 76.01% | 58.34% |
 | F1-Score | 44.87% | 45.64% |
 | ROC-AUC | 81.06% | 80.63% |
+### Performance Analysis
 
+- Random Forest achieved higher accuracy (78.74%) and F1-score (45.64%).
+- Logistic Regression achieved higher recall (76.01%) and ROC-AUC (81.06%).
+- Logistic Regression identified a larger proportion of actual positive cases.
+- Random Forest provided better overall accuracy on the test dataset.
+- Both models can benefit from further hyperparameter tuning and evaluation.
+
+**Conclusion:** Random Forest performed better in terms of accuracy and F1-score, while Logistic Regression showed stronger recall and ROC-AUC.
 ### Model Comparison
 
 **Logistic Regression**
